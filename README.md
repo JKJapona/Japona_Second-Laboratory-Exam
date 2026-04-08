@@ -11,7 +11,7 @@
 This map shows the specific files created for the Notepad functionality:
 
 ```text
-lastname_blogapp/
+notepad/
 ├── app/
 │   ├── Http/
 │   │   └── Controllers/
